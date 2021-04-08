@@ -1,6 +1,6 @@
 # RuntimeHierarchy
 
-* A One Component Debug Tool.
+* A One Component Debug Tool for Unity.
 
 * [Asset Store] : https://assetstore.unity.com/packages/slug/129255
 
